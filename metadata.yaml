@@ -1,0 +1,33 @@
+_repo: El-teatro-por-dentro--13-Autores-comediantes-escenas-de-la-vida-de-bastidores-etc._24031
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zamacois, Eduardo
+    aliases:
+    - Zamacois, E. (Eduardo)
+    - Quintana, Eduardo Zamacois y
+    birthdate: 1873
+    deathdate: 1971
+    gutenberg_agent_id: '26175'
+    url: http://www.gutenberg.org/2009/agents/26175
+    wikipedia: http://es.wikipedia.org/wiki/Eduardo_Zamacois
+description: ''
+gutenberg_issued: '2007-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24031'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Actresses'
+- !lcsh 'Theater -- History'
+- !lcc 'PQ'
+- !lcsh 'Dramatists'
+title: "El teatro por dentro\r\nAutores, comediantes, escenas de la vida de bastidores,\
+  \ etc."
+url: http://www.gutenberg.org/ebooks/24031
