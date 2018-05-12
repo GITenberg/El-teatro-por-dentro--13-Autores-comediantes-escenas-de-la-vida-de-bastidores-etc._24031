@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26175
     wikipedia: http://es.wikipedia.org/wiki/Eduardo_Zamacois
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24031#El-teatro-por-dentro--13-Autores-comediantes-escenas-de-la-vida-de-bastidores-etc.
 gutenberg_issued: '2007-12-25'
 gutenberg_type: Text
 identifiers:
